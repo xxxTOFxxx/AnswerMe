@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnswerMe</string>
+    <string name="digit_text"> Type The Text</string>
+    
+</resources>
